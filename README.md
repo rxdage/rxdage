@@ -10,6 +10,7 @@ I work across the engineering behind these: membrane windows and wafer processes
 
 ## Selected work
 
+- **[Tech notes](https://github.com/rxdage/tech-notes)** — working notes on MEMS windows, solid-state nanopores, pA/fA front-ends, AI4S data, and agent harnesses.
 - **[CRL — Convergent Review Loop](https://github.com/rxdage/convergent-review-loop)** — a stopping rule for multi-model document review. Protocol CRL-2.9; six desensitized cases; MANUAL + CASES + review receipts.
 - **[AI4S Governance](https://github.com/rxdage/ai4s-governance)** — agent-native governance for AI4S R&D data: four-zone filenames, hash-bound registries, a copy-only library, an audit CLI. 38 tests, CI green.
 - **[dsh-plugin-question-attachments](https://github.com/rxdage/dsh-plugin-question-attachments)** — attach images and files while answering ask_user_question cards in DeepSeek Harness.
