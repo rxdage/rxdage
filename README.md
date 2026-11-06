@@ -6,7 +6,7 @@ I build agent harnesses and the systems around them.
 
 `MEMS` · `solid-state nanopore` · `pA/fA weak-signal design` · `AI4S` · `agent harness`
 
-I write about the engineering behind these: membrane windows and wafer processes, nanopore fabrication and noise, low-current front-ends, research-data governance, and the harness that runs agents.
+I work across the engineering behind these: membrane windows and wafer processes, nanopore fabrication and noise, low-current front-ends, research-data governance, and the harness that runs agents. Notes and code from these projects are in the repos below.
 
 ## Selected work
 
