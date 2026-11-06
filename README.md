@@ -2,6 +2,12 @@
 
 I build agent harnesses and the systems around them.
 
+## Focus
+
+`MEMS` · `solid-state nanopore` · `pA/fA weak-signal design` · `AI4S` · `agent harness`
+
+I write about the engineering behind these: membrane windows and wafer processes, nanopore fabrication and noise, low-current front-ends, research-data governance, and the harness that runs agents.
+
 ## Selected work
 
 - **[CRL — Convergent Review Loop](https://github.com/rxdage/convergent-review-loop)** — a stopping rule for multi-model document review. Protocol CRL-2.9; six desensitized cases; MANUAL + CASES + review receipts.
